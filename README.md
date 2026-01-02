@@ -1,2 +1,1 @@
-# COMP1011-All-asm
-COMP1011-All assignments
+This is a collage of all assingment from PROGRAMMING FUNDAMENTALS course
